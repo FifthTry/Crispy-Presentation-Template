@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.package: fifthtry.github.io/Crispy-Presentation-Template
+zip: github.com/fifthtry/crispy-presentation-template/archive/refs/heads/main.zip
+
+-- fpm.dependency: fifthtry.github.io/Crispy-Presentation-Theme
