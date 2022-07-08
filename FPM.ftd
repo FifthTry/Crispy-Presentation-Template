@@ -7,4 +7,4 @@ base:  https://raw.githubusercontent.com/fifthtry/Crispy-Presentation-Template/m
 -- fpm.dependency: fifthtry.github.io/Crispy-Presentation-Theme
 
 -- fpm.auto-import: fpm
--- fpm.auto-import: fifthtry.github.io/Crispy-Presentation-Theme/assets
+-- fpm.auto-import: fifthtry.github.io/Crispy-Presentation-Template/assets
