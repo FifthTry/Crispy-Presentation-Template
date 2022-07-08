@@ -1,10 +1,13 @@
--- import: fifthtry.github.io/Crispy-Presentation-Theme as theme
 -- import: fifthtry.github.io/Crispy-Presentation-Theme/library as library
 -- import: fifthtry.github.io/Crispy-Presentation-Theme/presentation as ppt
 -- import: fifthtry.github.io/Crispy-Presentation-Theme/slide-type-1 as slide1
 -- import: fifthtry.github.io/Crispy-Presentation-Theme/slide-type-2 as slide2
 -- import: fifthtry.github.io/Crispy-Presentation-Theme/slide-type-3 as slide3
--- import: fifthtry.github.io/Crispy-Presentation-Theme/assets
+
+
+
+
+
 -- library.total: 1
 
 -- ppt.presentation:
@@ -23,7 +26,6 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)
 desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.
 
-
 --- slide2.slide-type:
 slide-number: 1
 title-1: DRINKS
@@ -35,7 +37,6 @@ text-3: The main course is food that is served as the main dish in a multi-cours
 image-1: $assets.files.static.drink.png
 image-2: $assets.files.static.pancake.png
 image-3: $assets.files.static.maincourse.png
-
 
 --- slide3.slide-type:
 slide-number: 2
