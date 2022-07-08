@@ -2,7 +2,7 @@
 
 -- fpm.package: fifthtry.github.io/Crispy-Presentation-Template
 zip: github.com/fifthtry/crispy-presentation-template/archive/refs/heads/main.zip
-base:  https://raw.githubusercontent.com/fifthtry/Crispy-Presentation-Theme/main
+base:  https://raw.githubusercontent.com/fifthtry/Crispy-Presentation-Template/main
 
 -- fpm.dependency: fifthtry.github.io/Crispy-Presentation-Theme
 
